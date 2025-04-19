@@ -8,3 +8,7 @@ You give it:
 
 It returns: ✅ the best combination
 
+**RandomizedSearchCV**
+
+Instead of trying all hyperparameter combinations like Grid Search, it picks a random subset — much faster, 
+especially when the search space is huge.
