@@ -1,4 +1,4 @@
-GridSearchCV is a tool that automatically searches over combinations of hyperparameters to find the best-performing one based on cross-validation.
+**GridSearchCV** is a tool that automatically searches over combinations of hyperparameters to find the best-performing one based on cross-validation.
 
 You give it:
 
